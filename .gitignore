@@ -1,3 +1,5 @@
 .DS_Store
 *.pdf
-/tests/output_sounds/*.wav
+*.pyc
+/tests/output/*.wav
+/tests/output/*.png
