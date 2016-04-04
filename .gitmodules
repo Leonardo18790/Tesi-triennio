@@ -1,3 +1,0 @@
-[submodule "ext/sms-tools"]
-	path = ext/sms-tools
-	url = https://github.com/MTG/sms-tools
